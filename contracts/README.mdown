@@ -1,0 +1,13 @@
+# Install and deploy
+
+## requirements
+
+* parity 
+* npm install
+
+
+## run
+
+* parity --chain=dev ui
+* node deploy.js 
+
